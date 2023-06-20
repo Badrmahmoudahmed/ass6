@@ -602,6 +602,18 @@ footer {
 
 }
 
+@media screen and (max-width:750px) {
+    .personal-cap{
+        padding-left: 50px;
+    }
+    .personal-cap p{
+        font-size: 13px ;
+    }
+    .personal-cap p span {
+        font-weight: 400;
+        font-size: 15px;
+    }
+}
 
 
 
