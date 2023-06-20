@@ -604,10 +604,10 @@ footer {
 
 @media screen and (max-width:750px) {
     .personal-cap{
-        padding-left: 28px;
+        padding-left: 24px;
     }
     .personal-cap p{
-        font-size: 13px ;
+        font-size: 10px ;
     }
     .personal-cap p span {
         font-weight: 400;
